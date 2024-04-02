@@ -187,10 +187,8 @@ def main():
 
     st.title("Linear Regression ")
     st.write("""
-    [![Github Repo](https://img.shields.io/badge/Github%20Repo-%20-lightgrey)](https://github.com/shubhayu-64/Linear_regression_webapp)
-    [![Follow](https://img.shields.io/twitter/follow/shubhayu64?style=social)](https://twitter.com/shubhayu64)
-    &nbsp[![Github](https://img.shields.io/github/followers/shubhayu-64?style=social)](https://github.com/shubhayu-64)
-    &nbsp[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/shubhayu64)
+    [![Github](https://github.com/mainbtpty)](https://github.com/mainbtpty)
+    [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/charlion)
 
     Linear regression in Python with a built-in dataset.
     The dataset contains 200 data distributed evenly. Vary the slope and intercept in order to play with the generated data.
